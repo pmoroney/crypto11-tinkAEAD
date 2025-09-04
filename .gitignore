@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# SoftHSM2 local token store (contains secrets and machine-specific state)
+.softhsm2/
